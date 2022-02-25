@@ -1,0 +1,2 @@
+C:\Users\daxta\OneDrive\Documents\Unreal Projects\Slate2\Plugins\Test\Intermediate\Build\Win64\UE4Editor\Development\Test\Definitions.Test.h
+C:\Users\daxta\OneDrive\Documents\Unreal Projects\Slate2\Plugins\Test\Source\Test\Public\Test.h
